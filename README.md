@@ -1,7 +1,1 @@
-<h2>Profile Cards!</h2><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexm622&title=MultiLanguage,Commit,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h2>My top languages</h2><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexm622&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![my stats](https://github.com/alexm622/alexm622/blob/main/github-metrics.svg)
